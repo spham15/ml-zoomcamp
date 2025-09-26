@@ -33,9 +33,10 @@ ml-zoomcamp-homework/
 ├── 04-metrics/        # Evaluation metrics and imbalanced datasets
 ├── 05-deployment/     # Deploy models with FastAPI + Docker
 ├── 06-trees/          # Decision trees, Random Forest, XGBoost
-├── 07-neural-nets/    # Neural networks & CNNs
-├── 08-serverless/     # Serverless ML deployment
-├── 09-k8s/            # Kubernetes & TensorFlow Serving
+├── 08-deep-learning/  # Tensorflow, Keras
+├── 09-serverless/     # Serverless ML deployment
+├── 10-kubernetes/     # Kubernetes & TensorFlow Serving
+├── 11-kserve/         # EKS, KServe
 │
 ├── midterm-project/   # End-to-end ML project (find dataset, train & deploy)
 ├── capstone-project/  # Final project with deployment
